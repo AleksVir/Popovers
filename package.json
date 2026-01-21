@@ -5,7 +5,7 @@
   "repository": "https://github.com/AleksVir/Popovers.git",
   "author": "Aleksandra Vir <“galex97@mail.ru”>",
   "license": "MIT",
-    "scripts": {
+  "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint .",
